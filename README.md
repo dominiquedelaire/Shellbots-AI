@@ -8,3 +8,7 @@ Documentation for Shellbots AI OS and framework
 Its other added value is to have a platform that brings together all the AI ​​engines on the market to perform scoring and build models by business domain to have the most efficient AI services possible.
 
 > [**`Our Web Site in french language`**](https://www.neuronessolutions.com/) &nbsp;&nbsp;&nbsp; 
+
+[Wiki and documentation Shellbots Home](https://github.com/dominiquedelaire/Shellbots-AI/wiki)   
+[ShellbotsOS Introduction](https://github.com/dominiquedelaire/Shellbots-AI/wiki/ShellbotsOS-Introduction)   
+[Main Menu and Execution of Framework](https://github.com/dominiquedelaire/Shellbots-AI/wiki/Main-Menu-and-Framework-execution)   
